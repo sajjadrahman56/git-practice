@@ -1,1 +1,1 @@
-# github-copilot-101
+# git-practice
